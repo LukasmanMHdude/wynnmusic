@@ -31,3 +31,11 @@ View this on our wiki [here]()
 ## FAQ
 
 View this on our wiki [here]()
+
+## Credits
+
+Each song will have its own credits, check the proprties of each file for detailed information. [Click for an example](https://streamable.com/4436x3).
+
+### People (in order of date aquired the songs) 
+
+* [The Relic Hunter](https://www.youtube.com/channel/UChRuSb3CoAcHRlvSjROPFsA)
