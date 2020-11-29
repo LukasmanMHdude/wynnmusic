@@ -10,19 +10,7 @@ Hi, welcome to our music library for wynntils. You can install these to your fol
 
 ## Add the Music Ingame!
 
-View this on our wiki [here]()
-
-### Short steps 
-
-Use these if you have already instealled it and need  bit of guidance, or if these are esier for you:
-
-**Don't use these if you can't understand them, click the link above**
-
-* Download the music [here]()
-* Delete the `sounds` folder in `\AppData\Roaming\.minecraft\wynntils`
-* Disconnect and reconnect from the server in wynntils
-
-View this on our wiki [here]()
+View this on our wiki [**here**]()
 
 ## Create Your Own Music or Find Others!
 
