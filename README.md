@@ -10,7 +10,7 @@ Hi, welcome to our music library for wynntils. You can install these to your fol
 
 ## Add the Music Ingame!
 
-View this on our wiki [**here**](/wiki/Setting-Up-the-Music)
+View this on our wiki [**here**](https://github.com/LukasmanMHdude/wynnmusic/wiki/Setting-Up-the-Music)
 
 ## Create Your Own Music or Find Others!
 
